@@ -5,7 +5,7 @@
 This project implements an "Evil Twin" WiFi access point using a NodeMCU (ESP8266) to create a rogue WiFi network that mimics a legitimate one. It sets up a captive portal to capture user credentials by presenting a fake firmware update page, tricking users into entering their WiFi passwords. The captured passwords are stored in the ESP8266's EEPROM and can be viewed or cleared via a web interface. Additionally, the SSID of the rogue access point can be changed dynamically.
 
 **Note**: This code is provided for educational purposes only. Unauthorized use of this code to harm networks or steal credentials is illegal and unethical. Use responsibly and only in controlled environments with explicit permission.
-
+![](https://galaxy.ai/_next/image?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FVeMaF27B0nA%2Fmaxresdefault.jpg&w=1920&q=75)
 ## Features
 
 - Creates a WiFi access point with a customizable SSID (default: "Free WiFi").
